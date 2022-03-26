@@ -1,12 +1,11 @@
-import react, {useState} from "react"
 import './App.css';
-import Odev8 from "./Odev8";
+import ProductPage from "./ProductPage";
 
 
 function App() {
  return (
    <div>
-     <Odev8/>
+     <ProductPage/>
    </div>
  )
 }
